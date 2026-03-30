@@ -5,43 +5,16 @@
   <channel>
     <title>My Morning Newsletters</title>
     <description>Daily newsletters from my inbox, read aloud.</description>
-    <link>http://192.168.4.84:8080</link>
+    <link>https://kavithadeviperumal.github.io/newsletter-podcast</link>
     <language>en-us</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 30 Mar 2026 19:25:18 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 20:21:36 -0000</lastBuildDate>
     
-    <item>
-      <title>How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds</title>
-      <description>bytebytego@substack.com</description>
-      <pubDate>Mon, 30 Mar 2026 15:47:10 -0000</pubDate>
-      <enclosure url="http://192.168.4.84:8080/audio/e23805186b.mp3" length="3071904" type="audio/mpeg"/>
-      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8xYAAAA</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:author>bytebytego@substack.com</itunes:author>
-    </item>
-    <item>
-      <title>Product strategy signals are everywhere</title>
-      <description>elena-leonova@courses.maven.com</description>
-      <pubDate>Mon, 30 Mar 2026 13:03:05 -0000</pubDate>
-      <enclosure url="http://192.168.4.84:8080/audio/30a5621735.mp3" length="493056" type="audio/mpeg"/>
-      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8xQAAAA</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:author>elena-leonova@courses.maven.com</itunes:author>
-    </item>
-    <item>
-      <title>bend problems to your disposition</title>
-      <description>hils@substack.com</description>
-      <pubDate>Mon, 30 Mar 2026 11:20:33 -0000</pubDate>
-      <enclosure url="http://192.168.4.84:8080/audio/143b560355.mp3" length="1818816" type="audio/mpeg"/>
-      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8xPAAAA</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:author>hils@substack.com</itunes:author>
-    </item>
     <item>
       <title>🤫 Anthropic&apos;s secret &apos;Mythos&apos; model</title>
       <description>news@daily.therundown.ai</description>
       <pubDate>Mon, 30 Mar 2026 10:13:21 -0000</pubDate>
-      <enclosure url="http://192.168.4.84:8080/audio/d1da778d61.mp3" length="2761632" type="audio/mpeg"/>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/d1da778d61.mp3" length="2761632" type="audio/mpeg"/>
       <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8xOAAAA</guid>
       <itunes:duration>00:00</itunes:duration>
       <itunes:author>news@daily.therundown.ai</itunes:author>
