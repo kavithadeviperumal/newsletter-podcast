@@ -1,0 +1,9 @@
+config.json
+google_tts_key.json
+tokens/
+logs/
+audio/
+feed/
+processed.json
+__pycache__/
+*.pyc

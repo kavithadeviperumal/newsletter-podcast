@@ -1,0 +1,14 @@
+# Microsoft Outlook / Graph API
+msal==1.31.0
+requests==2.32.3
+
+# Gmail API
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.131.0
+
+# HTML parsing
+html2text==2024.2.26
+
+# Google Cloud TTS
+google-cloud-texttospeech==2.21.1

@@ -1,0 +1,46 @@
+{
+  "_comment": "Copy this file to config.json and fill in your values",
+
+  "_provider_comment": "Set to 'outlook' for Hotmail/Outlook, or 'gmail' for Gmail",
+  "email_provider": "outlook",
+
+  "email_address": "you@hotmail.com",
+
+  "_outlook_comment": "Only needed if email_provider is 'outlook'. Get from Azure Portal > App Registrations",
+  "ms_client_id": "YOUR_AZURE_APP_CLIENT_ID",
+  "ms_client_secret": "YOUR_AZURE_APP_CLIENT_SECRET",
+  "ms_tenant_id": "YOUR_AZURE_TENANT_ID",
+
+  "_gmail_comment": "Only needed if email_provider is 'gmail'. Path to credentials.json downloaded from Google Cloud Console",
+  "gmail_credentials_file": "credentials.json",
+
+  "_filter_comment": "Emails matching these sender domains OR subject keywords are treated as newsletters",
+  "newsletter_domains": [
+    "substack.com",
+    "beehiiv.com",
+    "mailchimp.com",
+    "convertkit.com",
+    "morningbrew.com",
+    "hubspot.com"
+  ],
+  "newsletter_keywords": [
+    "newsletter",
+    "digest",
+    "weekly",
+    "daily briefing",
+    "issue #"
+  ],
+
+  "_tts_comment": "Google Cloud TTS voice. See: https://cloud.google.com/text-to-speech/docs/voices",
+  "tts_voice": "en-US-Journey-F",
+  "speaking_rate": 1.1,
+
+  "_server_comment": "The URL your podcast server is reachable at on your local network",
+  "base_url": "http://YOUR_LOCAL_IP:8080",
+
+  "podcast_title": "My Morning Newsletters",
+  "podcast_description": "Daily newsletters from my inbox, read aloud.",
+
+  "_episodes_comment": "How many episodes to keep in the feed",
+  "max_episodes": 20
+}
