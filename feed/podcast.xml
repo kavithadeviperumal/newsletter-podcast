@@ -8,47 +8,46 @@
     <link>https://kavithadeviperumal.github.io/newsletter-podcast</link>
     <language>en-us</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 30 Mar 2026 21:49:35 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:30:10 -0000</lastBuildDate>
     
     <item>
-      <title>d1da778d61</title>
-      <description>Newsletter audio</description>
-      <pubDate>Mon, 30 Mar 2026 19:25:18 -0000</pubDate>
-      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/d1da778d61.mp3" length="2761632" type="audio/mpeg"/>
-      <guid isPermaLink="false">d1da778d61.mp3</guid>
+      <title>How Meta Turned Debugging Into a Product</title>
+      <description>bytebytego@substack.com</description>
+      <pubDate>Tue, 31 Mar 2026 15:45:55 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/33b0944f4c.mp3" length="319200" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8yDAAAA</guid>
       <itunes:duration>00:00</itunes:duration>
+      <itunes:author>bytebytego@substack.com</itunes:author>
     </item>
+  
     <item>
-      <title>143b560355</title>
-      <description>Newsletter audio</description>
-      <pubDate>Mon, 30 Mar 2026 19:05:26 -0000</pubDate>
-      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/143b560355.mp3" length="1818816" type="audio/mpeg"/>
-      <guid isPermaLink="false">143b560355.mp3</guid>
+      <title>Issue #703</title>
+      <description>suraj@pointer.io</description>
+      <pubDate>Tue, 31 Mar 2026 13:01:50 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/74ca90da5d.mp3" length="1234368" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8x3AAAA</guid>
       <itunes:duration>00:00</itunes:duration>
+      <itunes:author>suraj@pointer.io</itunes:author>
     </item>
+  
     <item>
-      <title>30a5621735</title>
-      <description>Newsletter audio</description>
-      <pubDate>Mon, 30 Mar 2026 19:01:30 -0000</pubDate>
-      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/30a5621735.mp3" length="493056" type="audio/mpeg"/>
-      <guid isPermaLink="false">30a5621735.mp3</guid>
+      <title>What Makes a Senior Manager Stand Out</title>
+      <description>levelupwithethanevans@substack.com</description>
+      <pubDate>Tue, 31 Mar 2026 12:21:40 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/371a1c7eb2.mp3" length="506304" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8x0AAAA</guid>
       <itunes:duration>00:00</itunes:duration>
+      <itunes:author>levelupwithethanevans@substack.com</itunes:author>
     </item>
+  
     <item>
-      <title>8027cc7bb7</title>
-      <description>Newsletter audio</description>
-      <pubDate>Mon, 30 Mar 2026 19:00:32 -0000</pubDate>
-      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/8027cc7bb7.mp3" length="554208" type="audio/mpeg"/>
-      <guid isPermaLink="false">8027cc7bb7.mp3</guid>
+      <title>🥊 OpenAI&apos;s $1B Disney blindside</title>
+      <description>news@daily.therundown.ai</description>
+      <pubDate>Tue, 31 Mar 2026 10:05:33 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/16e468bd21.mp3" length="264192" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADY_8xxAAAA</guid>
       <itunes:duration>00:00</itunes:duration>
-    </item>
-    <item>
-      <title>e23805186b</title>
-      <description>Newsletter audio</description>
-      <pubDate>Mon, 30 Mar 2026 18:59:22 -0000</pubDate>
-      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/e23805186b.mp3" length="3071904" type="audio/mpeg"/>
-      <guid isPermaLink="false">e23805186b.mp3</guid>
-      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>news@daily.therundown.ai</itunes:author>
     </item>
   </channel>
 </rss>
