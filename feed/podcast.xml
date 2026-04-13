@@ -49,5 +49,35 @@
       <itunes:duration>00:00</itunes:duration>
       <itunes:author>news@daily.therundown.ai</itunes:author>
     </item>
+  
+    <item>
+      <title>How to use AI as a team</title>
+      <description>talraviv@substack.com</description>
+      <pubDate>Mon, 13 Apr 2026 11:34:54 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/a35d09d4c1.mp3" length="4569600" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADhY5JFAAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>talraviv@substack.com</itunes:author>
+    </item>
+  
+    <item>
+      <title>🚨 Anti-AI fears hit home for Sam Altman</title>
+      <description>news@daily.therundown.ai</description>
+      <pubDate>Mon, 13 Apr 2026 09:03:06 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/2cebd0f79b.mp3" length="2842272" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADhY5I_AAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>news@daily.therundown.ai</itunes:author>
+    </item>
+  
+    <item>
+      <title>A Deep Dive into Claude Code and Agentic Developer Tools</title>
+      <description>thegenacademy@substack.com</description>
+      <pubDate>Mon, 13 Apr 2026 07:14:11 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/98114ed1e2.mp3" length="7238208" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBEwAAAGv3e2XpYrdPvG9jLnxC9igAAADhY78bAAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>thegenacademy@substack.com</itunes:author>
+    </item>
   </channel>
 </rss>
