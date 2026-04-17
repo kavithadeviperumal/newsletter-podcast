@@ -179,5 +179,45 @@
       <itunes:duration>00:00</itunes:duration>
       <itunes:author>bytebytego@substack.com</itunes:author>
     </item>
+  
+    <item>
+      <title>The Skills That Matter Most Right Now (And They&apos;re Not What You Think)</title>
+      <description>levelupwithethanevans@substack.com</description>
+      <pubDate>Thu, 09 Apr 2026 12:22:17 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/8731225099.mp3" length="5709984" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADbXewdAAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>levelupwithethanevans@substack.com</itunes:author>
+    </item>
+  
+    <item>
+      <title>Outcomes that matter.</title>
+      <description>coach@jamesgunaca.com</description>
+      <pubDate>Thu, 09 Apr 2026 11:03:46 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/1703adf53a.mp3" length="237984" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADbXewaAAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>coach@jamesgunaca.com</itunes:author>
+    </item>
+  
+    <item>
+      <title>🚀 Muse Spark arrives as Meta&apos;s AI reset</title>
+      <description>news@daily.therundown.ai</description>
+      <pubDate>Thu, 09 Apr 2026 10:07:06 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/5c3d69c6b5.mp3" length="2968128" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADbXewYAAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>news@daily.therundown.ai</itunes:author>
+    </item>
+  
+    <item>
+      <title>New Technical Program Manager Job Matches</title>
+      <description>support@builtin.com</description>
+      <pubDate>Wed, 08 Apr 2026 17:18:34 -0000</pubDate>
+      <enclosure url="https://kavithadeviperumal.github.io/newsletter-podcast/audio/06caf9c028.mp3" length="286464" type="audio/mpeg"/>
+      <guid isPermaLink="false">AQMkADAwATYwMAItNWU0OS0zYTUzLTAwAi0wMAoARgAAA7nP1Pp47BlGhWpD0jLXMEEHAGv3e2XpYrdPvG9jLnxC9igAAAIBDAAAAGv3e2XpYrdPvG9jLnxC9igAAADbXewKAAAA</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:author>support@builtin.com</itunes:author>
+    </item>
   </channel>
 </rss>
